@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Beyond Vision
-email: bombini@fi.infn.it
+title: NTIRE 2025 Challenge on Image Super-Resolution and Real-World Face Restoration
+email: kai_liu@sjtu.edu.cn
 description: >
-  First ICIAP workshop on imaging-based techniques applied to Physical Sciences
+  NTIRE 2025 Challenge on Image Super-Resolution and Real-World Face Restoration
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
